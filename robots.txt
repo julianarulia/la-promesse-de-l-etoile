@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://julianarulia.github.io/La-promesse-de-l-etoile/sitemap.xml
